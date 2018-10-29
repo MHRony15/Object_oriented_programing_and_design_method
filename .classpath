@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="BankAccountThread/src"/>
+	<classpathentry kind="src" path="GUI Calculator/src"/>
+	<classpathentry kind="src" path="interfaceWithLambda/src"/>
+	<classpathentry kind="src" path="MultiThreading/src"/>
+	<classpathentry excluding="main/" kind="src" path="OperatorTest/src"/>
+	<classpathentry kind="src" path="OperatorTest/src/main"/>
+	<classpathentry kind="src" path="Stream/src"/>
+	<classpathentry kind="output" path="BankAccountThread/bin"/>
+</classpath>
